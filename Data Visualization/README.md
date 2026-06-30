@@ -1,5 +1,10 @@
 # Goodreads Books — Data Visualization
 
+CodeAlpha Internship — Data Visualization Task
+**Author:** Nesma Yahia
+
+## Overview
+
 Turning raw book metadata into clear, decision-supporting charts and a written data story.
 
 ## Goal
@@ -71,7 +76,9 @@ python3 goodreads_data_visualization.py
 └── Goodreads_Data_Visualization_Report.docx       # generated
 ```
 
-## Author
 
-CodeAlpha Internship — Data Visualization Task
-Nesma Yahia
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nesma-yahia-801a92237/)
+- 🐦 [X (Twitter)](https://x.com/yahianesma71)
+- 💻 [GitHub](https://github.com/Nesma07)
