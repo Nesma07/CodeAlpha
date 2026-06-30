@@ -1,9 +1,11 @@
 # Goodreads Books — Exploratory Data Analysis
 
-Turning raw book metadata into clear, decision-supporting charts and a written data story.
-
 CodeAlpha Internship — Task 2
 **Author:** Nesma Yahia
+
+## Overview
+
+Turning raw book metadata into clear, decision-supporting charts and a written data story.
 
 ## Goal
 
