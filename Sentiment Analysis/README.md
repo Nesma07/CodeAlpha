@@ -3,7 +3,7 @@
 CodeAlpha Internship — Sentiment Analysis Task
 **Author:** Nesma Yahia
 
-## overview
+## Overview
 
 Classifying real customer reviews as positive, negative, or neutral, detecting specific emotions, and turning the results into decisions a product or marketing team can act on.
 
@@ -32,8 +32,6 @@ This project uses the **Datafiniti Amazon Consumer Reviews of Amazon Products** 
   ```bash
   curl -L -o amazon_reviews.csv "https://raw.githubusercontent.com/Arjun-Mota/amazon-product-reviews-sentiment-analysis/master/1429_1.csv"
   ```
-
-> Goodreads' `books.csv` was considered first (per the original task data), but it contains no review text — only numeric ratings — so it can't be used for text-based sentiment analysis. This dataset was chosen instead because it matches the task's "Amazon reviews" example exactly and includes both text and a ground-truth star rating to validate the model against.
 
 ### Using your own data
 
