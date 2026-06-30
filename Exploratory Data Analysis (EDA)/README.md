@@ -62,3 +62,9 @@ The [Goodreads Books dataset](https://www.kaggle.com/datasets/jealousleopard/goo
 - Most-rated book: **Twilight** (~4.6M ratings)
 
 *(Exact figures depend on the specific `books.csv` used and are recalculated automatically on each run.)*
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nesma-yahia-801a92237/)
+- 🐦 [X (Twitter)](https://x.com/yahianesma71)
+- 💻 [GitHub](https://github.com/Nesma07)
